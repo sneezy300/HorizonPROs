@@ -1,0 +1,43 @@
+.container-fluid {
+    height: 150px;
+} 
+
+.navbar-default .navbar-nav>li>a {
+    color: #777;
+    font-weight: bold;
+}
+
+.navbar-nav {
+    float: initial-end;
+}
+
+.h1, .h2, .h3, h1, h2, h3 {
+
+    margin-top: 50px;
+    padding-bottom: 30px;
+    padding-top: 50px;
+}
+
+
+p {
+	font: 15px Arial, sans-serif;
+}
+.main {
+	height: 500px;
+}
+
+.footer {
+	background-color: blue;
+}
+
+.footer p {
+	color: white;
+}
+
+.footer h5 {
+	color: orange;
+}
+
+.footer h6 {
+	color: green;
+}
